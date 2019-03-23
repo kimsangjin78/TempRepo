@@ -24,5 +24,6 @@ Sub UniqueTable()
     Cells(i, 10) = Total
     
     Next i
+## added comment
 
 End Sub
