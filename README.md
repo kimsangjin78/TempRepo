@@ -5,7 +5,7 @@
 To select the best candidate businesses for a new food delivery service.  The service, unlike existing ones, will ship frozen meals or ingredients along with instructions to all markets within contiguous US.  To aid the selection process, we will need the following data points:
 * review of restaurant
 * whether the establishment does catering
-* income levels of establshment's location
+* income levels of the establshment's location
 * popularity of the establishment
 ## Extract
 Two sources of data is used
