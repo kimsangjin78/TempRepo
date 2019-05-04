@@ -1,9 +1,11 @@
-# Data Source
-Fdescription
-* The sources of data that you will extract from.
-* The type of transformation needed for this data (cleaning, joining, filtering, aggregating, etc).
+#ETL Project
+Seth kim
+Trong Nguyen
+##Data Source
+Two sources of data is used
+*Yelp dataset challenge.  Format: JSON
+*IRS income by zipcode. Format: CSV
+##Ext
 
-* The type of final production database to load the data into (relational or non-relational).
 
-## tt
 ### ttt
